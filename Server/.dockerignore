@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+**/*.test.ts
+**/*.spec.ts
+**/__tests__
+**/jest.config.js
+coverage
